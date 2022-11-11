@@ -1,0 +1,1 @@
+# django-7hours-course-youtube-test
